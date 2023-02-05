@@ -1,0 +1,21 @@
+background-color: #f1f8fa;
+
+https://jonny.me/
+
+    background: #5b43d6 morado
+    background-color: #741ce8; morado2
+
+
+user story
+
+Como usuario frecuente de Twitter, quiero poder compartir fácilmente mis pensamientos y actualizaciones con mis seguidores,
+ para poder mantenerme conectado con ellos y recibir retroalimentación inmediata.
+ Quiero poder acceder a Twitter desde mi computadora o dispositivo móvil, publicar fácilmente tweets y ver una transmisión
+ en tiempo real de tweets de las personas a las que sigo.
+ Además, quiero poder dar Me gusta, retwittear y responder a los tweets,
+ así como buscar temas y usuarios específicos en la plataforma.
+
+objetivo
+
+El objetivo principal de Twitter es proporcionar una plataforma para que las personas compartan sus pensamientos, actualizaciones e intereses con una audiencia amplia en tiempo real, permitiendo a los usuarios interactuar entre sí a través de tweets, retweets, Me gusta y respuestas. La plataforma tiene como objetivo conectar a personas de todo el mundo y permitirles participar en conversaciones públicas sobre una amplia gama de temas. En última instancia, el objetivo de Twitter es fomentar una comunidad global de usuarios que puedan intercambiar ideas y perspectivas y llamar la atención sobre temas y eventos importantes.
+
